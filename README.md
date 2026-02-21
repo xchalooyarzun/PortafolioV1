@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 CoreReset-GAP — Portafolio Profesional
 
 Portafolio web desarrollado con enfoque en desarrollo moderno y aplicaciones orientadas a salud.
@@ -47,3 +48,7 @@ Combinar tecnología y área de salud para construir software útil, seguro y pr
 Gonzalo Alejandro Oyarzún Panes
 CoreReset-GAP — Reconstrucción personal y profesional mediante tecnología y disciplina.
 📧 Contacto: goyarzunpanes@gmail.com
+=======
+# portafolio-core-reset
+Portafolio profesional enfocado en desarrollo web y aplicaciones clínicas
+>>>>>>> 1fb8b952192d8807b5f4b77ee6be09c5893925c9
