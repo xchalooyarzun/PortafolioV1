@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Small global polish (keeps the project simple and professional) */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Prevent anchor links from hiding under the sticky header */
+section {
+  scroll-margin-top: 88px;
+}
