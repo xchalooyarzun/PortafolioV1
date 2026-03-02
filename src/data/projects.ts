@@ -13,8 +13,8 @@ export const projects: Project[] = [
     description:
       "Sistema clínico web: Crud de pacientes, validación de formularios, UI clara y con enfoque en seguridad del usuario.",
     tags: ["React", "TypeScript","Tailwind", "Validaciones", "CRUD"],
-    github: "#",
-    demo: "#",
+    github: "https://github.com/xchalooyarzun/sistema-clinico-demo",
+    demo: "https://sistema-clinico-demo.vercel.app/",
     highlight: true,
   },
   {
