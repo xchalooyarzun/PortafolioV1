@@ -10,7 +10,7 @@ export function ProjectCard(p: Project) {
       ].join(" ")}
     >
       <div className="flex items-start justify-between gap-4">
-        <h3 className="text-lg font-bold">{p.title}</h3>
+       <h3 className="text-lg font-bold text-zinc-900">{p.title}</h3>
 
         {p.highlight ? (
           <span className="rounded-full bg-zinc-900 px-3 py-1 text-xs font-semibold text-white">

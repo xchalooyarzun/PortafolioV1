@@ -18,10 +18,12 @@ export const projects: Project[] = [
     highlight: true,
   },
   {
-    title: "Chequeo Médico Python",
-    description:
-      "Evaluación de signos vitales con alertas y registro básico. Enfoque clínico y reglas simples.",
-    tags: ["Python", "Reglas clínicas", "Consola"],
-    github: "#",
-  },
+  title: "GAP Nutrition Ecommerce",
+  description:
+    "Ecommerce demo de suplementos deportivos con catálogo, búsqueda, filtros por categoría y carrito persistente.",
+  tags: ["React", "TypeScript", "React Router", "Context API", "LocalStorage"],
+  github: "https://github.com/xchalooyarzun/gap-nutrition-ecommerce",
+  demo: "https://gap-nutrition-ecommerce.vercel.app/",
+  highlight: true,
+},
 ];
