@@ -57,7 +57,7 @@ export default function App() {
             </a>
 
             <a
-              href="/cv_gonzalo.pdf"
+              href="/Gonzalo_Oyarzun_Frontend_React_CV.pdf"
               className="rounded-xl border border-zinc-700 px-6 py-3 text-sm font-semibold text-zinc-200 hover:bg-zinc-800 transition"
             >
               Descagar CV
