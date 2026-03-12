@@ -26,4 +26,14 @@ export const projects: Project[] = [
   demo: "https://gap-nutrition-ecommerce.vercel.app/",
   highlight: true,
 },
+{
+  title: "CoreReset Tracker",
+  description:
+    "Aplicación de seguimiento físico desarrollada con React y TypeScript que permite registrar entrenamientos, medir progreso corporal y visualizar evolución mediante gráficos interactivos.",
+  tags: ["React", "TypeScript", "Tailwind", "Recharts"],
+  github: "https://github.com/xchalooyarzun/core-reset-tracker",
+  demo: "https://core-reset-tracker.vercel.app/",
+  highlight: true,
+},
+
 ];
